@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-on: Kom17_MQTT-1",
+  "name": "Home Assistant Add-on: Zigbee2MQTT-1",
   "url": "https://github.com/valerunio-org/hassio-zigbee2mqtt-1",
   "maintainer": "Koen Kanters <koenkanters94@gmail.com>"
 }
